@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rest-service-hivespark/src/main/main.iml" filepath="$PROJECT_DIR$/rest-service-hivespark/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-end/src/main/main1.iml" filepath="$PROJECT_DIR$/rest-service-end/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-2/src/main/main2.iml" filepath="$PROJECT_DIR$/rest-service-2/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-test-trainticket/src/main/main3.iml" filepath="$PROJECT_DIR$/rest-test-trainticket/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-geninvocation/src/main/main4.iml" filepath="$PROJECT_DIR$/rest-service-geninvocation/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-collect/src/main/main5.iml" filepath="$PROJECT_DIR$/rest-service-collect/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-1/src/main/main6.iml" filepath="$PROJECT_DIR$/rest-service-1/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-1/rest-service-1.iml" filepath="$PROJECT_DIR$/rest-service-1/rest-service-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-2/rest-service-2.iml" filepath="$PROJECT_DIR$/rest-service-2/rest-service-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-collect/rest-service-collect.iml" filepath="$PROJECT_DIR$/rest-service-collect/rest-service-collect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-service-end/rest-service-end.iml" filepath="$PROJECT_DIR$/rest-service-end/rest-service-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-test-trainticket/rest-test-trainticket.iml" filepath="$PROJECT_DIR$/rest-test-trainticket/rest-test-trainticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sub_zipkin_logs.iml" filepath="$PROJECT_DIR$/sub_zipkin_logs.iml" />
+    </modules>
+  </component>
+</project>
